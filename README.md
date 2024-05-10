@@ -12,9 +12,9 @@ Evento de tecnologia promovido pelo Devspace.
    Vamos simular o tempo de uma Sprint para gerenciamento de desenvolvimento software, com isso nossos alunos terão a oportunidade de ter uma experiência imersiva em como funciona o dia a dia de um programador que já trabalha na área.
 
 ### 3. Data:
-   Início: 13/05/2024
-   Apresentação final: 27/05/2024
-   29/05/2024: 29/05/2024
+   * Início: 13/05/2024
+   * Apresentação final: 27/05/2024
+   * 29/05/2024: 29/05/2024
 
 # Como começar o projeto?
 ### 1. Usar o repositório como template.
