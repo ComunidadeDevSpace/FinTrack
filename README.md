@@ -3,8 +3,8 @@ HackSprint 2024 - Devspace
 Evento de tecnologia promovido pelo Devspace.
 
 # Informações da Hacksprint 
-===========================
-1. O que é uma Hacksprint?
+
+1. ## O que é uma Hacksprint? \
    HackSprint é um evento onde todos os participantes da comunidade se juntam em grupos ou duplas para desenvolver um desafio de código e trocar conhecimentos.
    Seguindo a regra do [70/20/10](https://www.google.com/search?q=o+que+%C3%A9+a+regra+70+20+10&rlz=1C5CHFA_enDE1036DE1036&oq=o+que+%C3%A9+a+regra+70+20+10&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB7SAQg3ODcyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#imgrc=0oHCIDUqPyAbqM) o evento tem como objetivo reforçar a colaboração e mão na massa, trazendo uma oportunidade de acelerar o aprendizado em um período de 2 semanas.
 
