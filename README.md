@@ -16,10 +16,12 @@ Evento de tecnologia promovido pelo Devspace.
    * Apresentação final: 27/05/2024
    * 29/05/2024: 29/05/2024
 
-# Como começar o projeto?
-### 1. Usar o repositório como template.
-### 2. Agora é só codar e subir as alterações para o github.
-### 3. Quando finalizado, enviar link do projeto no canal do discord.
+# Primeiros passos
+   1. Clonar board de tarefas(Link Notion)
+   2. Usar o repositório como template.
+   3. Organizar as reuniões(Planning, Daily, Retro). 
+   4. Agora é só codar e subir as alterações para o github.
+   5. Quando finalizado, enviar link do projeto no canal do discord.
 
 # License
 
