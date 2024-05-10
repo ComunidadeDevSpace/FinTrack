@@ -1,7 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
-    alias(libs.plugins.kspRoom)
+    id("org.jetbrains.kotlin.kapt")
 }
 
 android {
@@ -28,11 +28,11 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_18
-        targetCompatibility = JavaVersion.VERSION_18
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
     }
     kotlinOptions {
-        jvmTarget = "18"
+        jvmTarget = "1.8"
     }
 }
 
@@ -48,7 +48,7 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
     //Room
-    ksp(libs.room.compiler)
+    kapt(libs.room.compiler)
     implementation(libs.room.runtime)
     implementation(libs.room.paging)
     implementation(libs.room.ktx)
