@@ -23,7 +23,7 @@ Evento de tecnologia promovido pelo Devspace.
    * 29/05/2024: 29/05/2024
 
 # Primeiros passos
-   1. Clonar board de tarefas(Link Notion)
+   1. Clonar board de tarefas - [Acessar board de tarefas](https://www.notion.so/devspacecommunity/Board-de-tarefas-16b3c63daa1641f0aa53d92ff37abe52)
    2. Usar o repositório como template.
    3. Organizar as reuniões(Planning, Daily, Retro). 
    4. Agora é só codar e subir as alterações para o github.
