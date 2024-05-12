@@ -1,4 +1,4 @@
-HackSprint 2024 - Devspace
+HackSprint 2024 - Devspace <img src="file:///Users/colussi/Downloads/Marca%20Dev%20Space/Variation=Logotype%2002-1.svg" alt="Logo da Minha Empresa">
 ==========================
 Evento de tecnologia promovido pelo Devspace.
 
